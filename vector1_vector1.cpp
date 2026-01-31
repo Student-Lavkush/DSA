@@ -15,6 +15,7 @@ int main(){
             cout<<v[i][j]<<" ";
         }
         cout<<endl;
+        
     }
     v[0].pop_back();
     v[0].pop_back();
